@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Muli|Nunito|Slabo+27px&display=swap');
+
+body {
+    position: relative;
+
+}
+
+h1 {
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 100px;
+}
+
+h2 {color: white;
+    font-family: 'Muli', sans-serif;   
+    font-size: 70px;
+}
+p {color: rgb(209, 28, 8);
+    font-family: 'Slabo 27px', serif;
+    font-size: 30px;
+}
+
+a {
+    background-color: silver;
+width: 120px;
+height: 40px;
+display: inline-block;
+border-radius: 30px;
+text-align: center;
+font-family: 'Slabo 27px', serif;
+font-size: 20px;
+padding-top: 10px;
+text-decoration: none;
+margin:20px;
+opacity: 0.7;
+
+}
+
+#div-header {
+border: 1px solid red;
+text-align: center;
+position: absolute;
+top: 200px;
+width: 100%;
+
+}
+
+#bt-insta {
+color: ivory;
+font-weight: bold;
+
+}
+
+#bt-mail {
+color: black
+
+
+}
+
+.card-text {
+    color: black;
+}
+
+.btn-primary {
+margin: 0%;
+width: 200px;
+
+}
+
+.card {
+display: inline-block;
+margin: 75px;
+}
+.fundo-rosa { 
+background-color: darksalmon;
+width: 100%;
+height: 100px;
+
+}
